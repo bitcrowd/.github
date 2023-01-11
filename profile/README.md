@@ -1,4 +1,4 @@
-## Hey, we are bitcrowd! 👋
+## Hey, we are bitcrowd 👋
 
 ![An illustration showing a futuristic city hovered by bitcrowd's spaceship](https://bitcrowd.net/assets/header-landscape_1500w-992799f5719297b7904493dc38f57dc640be0fbd1ad8f231ec7c7a53303cf777.jpg)
 
