@@ -6,4 +6,4 @@ We build hand-tailored software solutions for small companies and big corporatio
 
 ### Open Source Software
 
-We’re standing on the shoulders of giants, as a lot of our software depends on the foundations built by the amazing open source community 💗. Hence, whenever we have the time, we love to give back either by contributing to existing OSS libraries or sharing our own ones, which you can take a look at here.
+We’re standing on the shoulders of giants, as a lot of our software depends on the foundations built by the amazing open source community 💗. Hence, whenever we have the time, we love to give back either by contributing to existing OSS libraries or sharing our own ones, which you can take a look at below.
